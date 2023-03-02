@@ -1,0 +1,12 @@
+.app {
+  position: relative;
+  width: clamp(30%, 430px, 90%);
+  height: min(75%, 800px);
+  border-radius: 15px;
+  background-color: rgb(233, 216, 216);
+  overflow: hidden;
+}
+
+.btn{
+  padding: 10px;
+}
